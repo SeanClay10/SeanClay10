@@ -1,11 +1,11 @@
-# 💻 [Your Name]  
+# Sean Clayton
 
-Welcome to my GitHub profile! I'm a passionate and driven Computer Science junior at Oregon State University, specializing in the ethical development of AI tools. With a strong foundation in algorithms, software development, and problem-solving, I enjoy building efficient, user-friendly applications and tackling challenging technical problems.  
+Welcome to my GitHub profile! I'm a passionate and driven Computer Science student at Oregon State University. I am a junior specializing in the ethical development of AI tools. With a strong foundation in algorithms, software development, and problem-solving, I enjoy building efficient, user-friendly applications and tackling challenging technical problems.  
 
 ## 🌟 About Me  
 
-- **🔭 Current Focus**: I'm currently exploring software development techniques, collaborative tools like Git, and gaining experience in working within an Agile environment.  
-- **🎯 Career Goals**: I'm striving to leverage my programming skills and passion for technology to build impactful, innovative solutions that simplify processes and improve everyday life.  
+- **Current Focus**: I'm currently exploring software development techniques, efficient database integration methods, and gaining experience in working within an Agile environment.  
+- **Career Goals**: I'm striving to leverage my programming skills and passion for technology to build impactful, innovative solutions that simplify processes and improve everyday life.  
 
 When I'm not coding, you can find me playing soccer, hiking, or playing guitar.  
 
