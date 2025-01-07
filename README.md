@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and driven Computer Science student at Oregon State University. I am a junior specializing in the ethical development of AI tools. With a strong foundation in algorithms, software development, and problem-solving, I enjoy building efficient, user-friendly applications and tackling challenging technical problems.  
 
-## 🌟 About Me  
+## About Me  
 
 - **Current Focus**: I'm currently exploring software development techniques, efficient database integration methods, and gaining experience in working within an Agile environment.  
 - **Career Goals**: I'm striving to leverage my programming skills and passion for technology to build impactful, innovative solutions that simplify processes and improve everyday life.  
@@ -11,7 +11,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
 
 ---
 
-## 💡 Featured Projects  
+## Featured Projects  
 
 ### 🃏 Multi-Threaded Poker Simulator  
 - **Description**: A performance-optimized poker simulator written in C++ that implements advanced data structures and algorithmic techniques to simulate realistic poker gameplay.  
@@ -60,7 +60,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
 
 ---
 
-## 🚀 Technical Skills  
+## Technical Skills  
 
 - **Languages**: C, C++, Python, JavaScript, SQL  
 - **Tools & Frameworks**: Git, React, Node.js, Tkinter  
