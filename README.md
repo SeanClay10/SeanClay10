@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate and driven Computer Science student at Oregon State University. I am a junior specializing in the ethical development of AI tools. With a strong foundation in algorithms, software development, and problem-solving, I enjoy building efficient, user-friendly applications and tackling challenging technical problems. 
 
-My GitHub profile is relatively new, as I am currently working on transferring all of my projects to this profile.
-
 ## About Me  
 
 - **Current Focus**: I'm currently exploring software development techniques, efficient database integration methods, and gaining experience in working within an Agile environment.  
