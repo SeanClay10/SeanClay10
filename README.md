@@ -32,7 +32,7 @@ Welcome to my GitHub!
 ---
 
 ### 🕸️ DocNexus
-- **Description**: A local, privacy-focused RAG system that enables deep analysis of PDF documents using knowledge graphs and local LLMs.
+- **Description**: A local, privacy focused RAG system that enables deep analysis of PDF documents using knowledge graphs and local LLMs.
 - **Key Features**:  
   - PDF upload and interactive query interface via Streamlit.   
   - Knowledge graph construction from document concepts and relationships. 
@@ -50,7 +50,7 @@ Welcome to my GitHub!
 ---
 
 ### 🃏 Multi-Threaded Poker Simulator  
-- **Description**: A performance-optimized poker simulator written in C++ that implements advanced data structures and algorithmic techniques to simulate realistic poker gameplay.  
+- **Description**: A performance optimized poker simulator written in C++ that implements advanced data structures and algorithmic techniques to simulate realistic poker gameplay.  
 - **Key Features**:  
   - Multi-threaded functionality for enhanced performance.  
   - Realistic game mechanics, including betting rounds, hand evaluations, and decision-making logic.  
