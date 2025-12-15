@@ -27,7 +27,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
 
 <img width="400" height="188" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/b7a4cbdb-58e7-4be7-a1cf-c6d25825363b" />
 
-- [View the Repository](https://github.com/NovakLabOSU/FracFeedExtractor)  
+[View the Repository](https://github.com/NovakLabOSU/FracFeedExtractor)  
 
 ---
 
@@ -45,7 +45,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
 
 <img width="800" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
 
-- [View the Repository](https://github.com/SeanClay10/MT-Poker-Simulator)  
+[View the Repository](https://github.com/SeanClay10/MT-Poker-Simulator)  
 
 ---
 
@@ -64,7 +64,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
 
 <img width="800" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
-- [View the Repository](https://github.com/SeanClay10/Small-Shell)  
+[View the Repository](https://github.com/SeanClay10/Small-Shell)  
 
 ---
 
