@@ -62,7 +62,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
   - Docker
 - **Impact**: This project improved my skills in RAG systems, knowledge graph design, local LLM deployment, and building interactive data driven applications with architecture focused on privacy.
 
-<img width="600" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
+<img width="500" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
 [View the Repository](https://github.com/SeanClay10/Small-Shell)  
 
