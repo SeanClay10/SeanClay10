@@ -70,14 +70,13 @@ Welcome to my GitHub!
 
 ## Technical Skills  
 
-- **Languages**: C, C++, Python, JavaScript, SQL  
-- **Tools & Frameworks**: Git, React, Node.js, Tkinter  
+- **Languages**: C, C++, Python, JavaScript
+- **Tools & Frameworks**: LangChain, React, Node.js, sk-learn, Docker, Kubernetes  
 - **Methodologies**: Agile Development, Test-Driven Development (TDD), Scrum Methodology  
-- **Other Technologies**: Unix/Linux environments, multi-threading, shell scripting  
 
 ---
 
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out:  
+I'm always open to collaborating on exciting projects or discussing ideas. Feel free to reach out:  
 
 - **LinkedIn**: [https://www.linkedin.com/in/seanclayton5/](https://www.linkedin.com/in/seanclayton5/)  
 - **Email**: [zweihander555@gmail.com](mailto:zweihander555@gmail.com)  
