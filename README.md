@@ -31,25 +31,6 @@ Welcome to my GitHub!
 
 ---
 
-### 🃏 Multi-Threaded Poker Simulator  
-- **Description**: A performance-optimized poker simulator written in C++ that implements advanced data structures and algorithmic techniques to simulate realistic poker gameplay.  
-- **Key Features**:  
-  - Multi-threaded functionality for enhanced performance.  
-  - Realistic game mechanics, including betting rounds, hand evaluations, and decision-making logic.  
-  - Scalable design allowing for multiple players and various poker variants.  
-- **Technologies Used**:  
-  - C++
-  - Qt
-  - CMake
-- **Impact**: This project honed my skills in multi-threading, algorithm optimization, and collaborative development processes. It also reinforced my ability to troubleshoot and deliver a fully functional and efficient application.
-
-<img width="600" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
-
-[View the Repository](https://github.com/SeanClay10/MT-Poker-Simulator)  
-
----
-
-
 ### 🕸️ DocNexus
 - **Description**: A local, privacy-focused RAG system that enables deep analysis of PDF documents using knowledge graphs and local LLMs.
 - **Key Features**:  
@@ -65,6 +46,24 @@ Welcome to my GitHub!
 <img width="500" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
 [View the Repository](https://github.com/SeanClay10/Small-Shell)  
+
+---
+
+### 🃏 Multi-Threaded Poker Simulator  
+- **Description**: A performance-optimized poker simulator written in C++ that implements advanced data structures and algorithmic techniques to simulate realistic poker gameplay.  
+- **Key Features**:  
+  - Multi-threaded functionality for enhanced performance.  
+  - Realistic game mechanics, including betting rounds, hand evaluations, and decision-making logic.  
+  - Scalable design allowing for multiple players and various poker variants.  
+- **Technologies Used**:  
+  - C++
+  - Qt
+  - CMake
+- **Impact**: This project honed my skills in multi-threading, algorithm optimization, and collaborative development processes. It also reinforced my ability to troubleshoot and deliver a fully functional and efficient application.
+
+<img width="600" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
+
+[View the Repository](https://github.com/SeanClay10/MT-Poker-Simulator)  
 
 ---
 
