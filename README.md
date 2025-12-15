@@ -7,9 +7,7 @@ Welcome to my GitHub!
 - **Academics**: Senior Computer Science student at Oregon State University, concentrating on ethical AI implementation, machine learning, and software architecture.
 - **Technical Interests**: Scalable software, RAG systems, DevOps, and ML.
 - **Professional Goals**: Build impactful, privacy conscious software and AI tools that solve real world problems.
-- **Hobbies**: Doccer, hiking, playing guitar
-
-When I'm not coding, you can find me playing soccer, hiking, or playing guitar.  
+- **Hobbies**: Soccer, hiking, and playing guitar.
 
 ---
 
