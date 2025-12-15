@@ -14,7 +14,7 @@ Welcome to my GitHub!
 ## Featured Projects  
 
 ### 🐺 FracFeedExtractor
-- **Description**: A pipeline written in Python that leverages XGBoost and LLMs to extract predator-prey interaction data from a global database of diet surveys, enabling the validation of predator feeding fractions.
+- **Description**: A pipeline written in Python that leverages XGBoost and LLMs to extract predator-prey interaction data from a global database of diet surveys, enabling the validation of the fraction of feeding predators.
 - **Key Features**:  
   - Preprocesses ecological text data and applies TF-IDF vectorization for feature extraction.
   - Uses XGBoost to classify relevant publications with key predator diet metrics.
