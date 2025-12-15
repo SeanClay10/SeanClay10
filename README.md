@@ -43,7 +43,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
   - CMake
 - **Impact**: This project honed my skills in multi-threading, algorithm optimization, and collaborative development processes. It also reinforced my ability to troubleshoot and deliver a fully functional and efficient application.
 
-<img width="800" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
+<img width="600" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
 
 [View the Repository](https://github.com/SeanClay10/MT-Poker-Simulator)  
 
@@ -62,7 +62,7 @@ When I'm not coding, you can find me playing soccer, hiking, or playing guitar.
   - Docker
 - **Impact**: This project improved my skills in RAG systems, knowledge graph design, local LLM deployment, and building interactive data driven applications with architecture focused on privacy.
 
-<img width="800" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
+<img width="600" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
 [View the Repository](https://github.com/SeanClay10/Small-Shell)  
 
