@@ -45,7 +45,7 @@ Welcome to my GitHub!
 
 <img width="500" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
-[View the Repository](https://github.com/SeanClay10/Small-Shell)  
+[View the Repository](https://github.com/SeanClay10/doc-nexus)  
 
 ---
 
