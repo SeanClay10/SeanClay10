@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 ## About Me  
 
-- **Academic**: Senior Computer Science student at Oregon State University, concentrating on ethical AI implementation, machine learning, and software architecture.
+- **Academics**: Senior Computer Science student at Oregon State University, concentrating on ethical AI implementation, machine learning, and software architecture.
 - **Technical Interests**: Scalable software, RAG systems, DevOps, and ML.
 - **Professional Goals**: Build impactful, privacy conscious software and AI tools that solve real world problems.
 - **Hobbies**: Doccer, hiking, playing guitar
