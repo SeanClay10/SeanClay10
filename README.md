@@ -1,11 +1,13 @@
 # Sean Clayton
 
-Welcome to my GitHub profile! I'm a passionate and driven Computer Science student at Oregon State University. I am a senior specializing in the ethical development of AI tools. With a strong foundation in algorithms and software development, I enjoy building efficient, user friendly applications and tackling challenging technical problems. 
+Welcome to my GitHub!
 
 ## About Me  
 
-- **Current Focus**: I'm currently exploring software development techniques, efficient database integration methods, and gaining experience in working within an Agile environment.  
-- **Career Goals**: I'm striving to leverage my programming skills and passion for technology to build impactful, innovative solutions that simplify processes and improve everyday life.  
+- **Academic**: Senior Computer Science student at Oregon State University, concentrating on ethical AI implementation, machine learning, and software architecture.
+- **Technical Interests**: Scalable software, RAG systems, DevOps, and ML.
+- **Professional Goals**: Build impactful, privacy conscious software and AI tools that solve real world problems.
+- **Hobbies**: Doccer, hiking, playing guitar
 
 When I'm not coding, you can find me playing soccer, hiking, or playing guitar.  
 
