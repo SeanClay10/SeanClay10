@@ -31,8 +31,8 @@ Welcome to my GitHub!
 
 ---
 
-### Local VLM Plays Pokémon
-- **Description**: An autonomous AI agent that plays Pokémon Red using computer vision and a locally hosted Vision-Language Model, eliminating API costs while maintaining sophisticated decision-making capabilities.
+### 🤖 Local VLM Plays Pokémon
+- **Description**: An autonomous AI agent that plays Pokémon Red using computer vision and a locally hosted Vision-Language Model, eliminating API costs while maintaining complex decision-making capabilities.
 - **Key Features**:  
   - Achieves autonomous gameplay through real-time screenshot analysis and strategic decision-making using Qwen3-VL.
   - Reduces inference costs from ~$150 per playthrough to $0 by running entirely on local hardware with 4-bit quantization.
@@ -44,7 +44,7 @@ Welcome to my GitHub!
   - HuggingFace Transformers
 - **Impact**: This project demonstrates practical AI cost optimization and advanced agent design, reducing expensive API dependent workflows to zero-cost local inference while solving complex visual reasoning challenges.
 
-<img width="600" alt="VLMResponse" src="https://github.com/user-attachments/assets/25f70174-686b-40b9-8d63-af2406079ca7" />
+<img width="450" alt="VLMResponse" src="https://github.com/user-attachments/assets/25f70174-686b-40b9-8d63-af2406079ca7" />
 
 [View the Repository](https://github.com/SeanClay10/local-vlm-plays-pokemon)
 
