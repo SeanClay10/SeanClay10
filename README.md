@@ -34,7 +34,7 @@ Welcome to my GitHub!
 - **Description**: An autonomous AI agent that plays Pokémon Red using computer vision and a locally hosted Vision-Language Model, eliminating API costs while maintaining complex decision-making capabilities.
 - **Key Features**:  
   - Achieves autonomous gameplay through real-time screenshot analysis and strategic decision-making using Qwen3-VL.
-  - Reduces inference costs from ~$150 per playthrough to $0 by running entirely on local hardware with 4-bit quantization.
+  - Reduces inference costs from ~$100 per playthrough to $0 by running entirely on local hardware with 4-bit quantization.
   - Hybrid perception system combining computer vision, RAM memory hooking, and collision map generation for robust spatial reasoning.
 - **Technologies Used**:  
   - Python
