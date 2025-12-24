@@ -23,11 +23,30 @@ Welcome to my GitHub!
   - Python
   - XGBoost
   - sk-learn
-- **Impact**: This project accelerating ecological research by providing a scalable, reproducible method for data extraction and analysis. It turned the manual process into an automated pipeline, reducing data extraction from 10 minutes per PDF to just 30 seconds
+- **Impact**: This project accelerates ecological research by providing a scalable, reproducible method for data extraction and analysis. It turned the manual process into an automated pipeline, reducing data extraction from 10 minutes per PDF to just 30 seconds
 
 <img width="400" height="188" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/b7a4cbdb-58e7-4be7-a1cf-c6d25825363b" />
 
 [View the Repository](https://github.com/NovakLabOSU/FracFeedExtractor)  
+
+---
+
+### Local VLM Plays Pokémon
+- **Description**: An autonomous AI agent that plays Pokémon Red using computer vision and a locally hosted Vision-Language Model, eliminating API costs while maintaining sophisticated decision-making capabilities.
+- **Key Features**:  
+  - Achieves autonomous gameplay through real-time screenshot analysis and strategic decision-making using Qwen3-VL.
+  - Reduces inference costs from ~$150 per playthrough to $0 by running entirely on local hardware with 4-bit quantization.
+  - Hybrid perception system combining computer vision, RAM memory hooking, and collision map generation for robust spatial reasoning.
+- **Technologies Used**:  
+  - Python
+  - Qwen3-VL
+  - PyBoy
+  - HuggingFace Transformers
+- **Impact**: This project demonstrates practical AI cost optimization and advanced agent design, reducing expensive API dependent workflows to zero-cost local inference while solving complex visual reasoning challenges.
+
+<img width="600" alt="VLMResponse" src="https://github.com/user-attachments/assets/25f70174-686b-40b9-8d63-af2406079ca7" />
+
+[View the Repository](https://github.com/SeanClay10/local-vlm-plays-pokemon)
 
 ---
 
