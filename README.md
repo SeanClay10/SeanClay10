@@ -23,7 +23,6 @@ Welcome to my GitHub!
   - Python
   - XGBoost
   - sk-learn
-- **Impact**: This project accelerates ecological research by providing a scalable, reproducible method for data extraction and analysis. It turned the manual process into an automated pipeline, reducing data extraction from 10 minutes per PDF to just 30 seconds
 
 <img width="400" height="188" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/b7a4cbdb-58e7-4be7-a1cf-c6d25825363b" />
 
@@ -42,7 +41,6 @@ Welcome to my GitHub!
   - Qwen3-VL
   - PyBoy
   - HuggingFace Transformers
-- **Impact**: This project demonstrates practical AI cost optimization and advanced agent design, reducing expensive API dependent workflows to zero-cost local inference while solving complex visual reasoning challenges.
 
 <img width="450" alt="VLMResponse" src="https://github.com/user-attachments/assets/25f70174-686b-40b9-8d63-af2406079ca7" />
 
@@ -60,7 +58,6 @@ Welcome to my GitHub!
   - Streamlit  
   - LangChain
   - Docker
-- **Impact**: This project improved my skills in RAG systems, knowledge graph design, local LLM deployment, and building interactive data driven applications with architecture focused on privacy.
 
 <img width="500" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
 
@@ -78,7 +75,6 @@ Welcome to my GitHub!
   - C++
   - Qt
   - CMake
-- **Impact**: This project honed my skills in multi-threading, algorithm optimization, and collaborative development processes. It also reinforced my ability to troubleshoot and deliver a fully functional and efficient application.
 
 <img width="600" alt="Poker Gameplay" src="https://github.com/user-attachments/assets/dc1b86be-df0b-43a3-ab88-f7388d88a77a" />
 
@@ -97,4 +93,4 @@ Welcome to my GitHub!
 I'm always open to collaborating on exciting projects or discussing ideas. Feel free to reach out:  
 
 - **LinkedIn**: [https://www.linkedin.com/in/seanclayton5/](https://www.linkedin.com/in/seanclayton5/)  
-- **Email**: [zweihander555@gmail.com](mailto:zweihander555@gmail.com)  
+- **Email**: [seanclayton.contact@gmail.com](mailto:seanclayton.contact@gmail.com)  
