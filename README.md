@@ -5,8 +5,8 @@ Welcome to my GitHub!
 ## About Me  
 
 - **Academics**: Senior Computer Science student at Oregon State University, concentrating on ethical AI implementation, machine learning, and software architecture.
-- **Technical Interests**: AI, RAG systems, DevOps, and ML.
-- **Professional Goals**: Build impactful, privacy conscious software and AI tools that solve real world problems.
+- **Technical Interests**: Agentic AI systems, machine learning, RAG architectures, and scalable software infrastructure.
+- **Professional Goals**: Build impactful, privacy-conscious software and AI tools that solve real world problems.
 - **Hobbies**: Soccer, hiking, and playing guitar.
 
 ---
@@ -26,7 +26,7 @@ Welcome to my GitHub!
   - Streamlit  
   - pandas  
 
-<img width="600" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/cf905573-c36b-4d56-a674-e4bf9aae5b3c" />
+<img width="600" alt="Ask Peavy" src="https://github.com/user-attachments/assets/cf905573-c36b-4d56-a674-e4bf9aae5b3c" />
 
 [View the Repository](https://github.com/Extended-reality-Lab/agentic-sensor-analytics)  
 
