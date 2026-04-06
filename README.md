@@ -13,6 +13,25 @@ Welcome to my GitHub!
 
 ## Featured Projects  
 
+### 🏢 Ask Peavy — Smart Building Analytics Agent
+- **Description**: An agentic AI system that enables natural language querying of smart building sensor data, allowing facility staff to analyze environmental conditions without writing database queries or performing manual analysis.
+- **Key Features**:  
+  - LangGraph-based agent workflow orchestrating LLM reasoning, validation, data retrieval, and analytics execution.  
+  - Structured intent extraction from natural language using a locally hosted LLaMA 3.1 8B model with schema-constrained JSON output.  
+  - Deterministic analytics tools for temporal statistics, spatial comparisons, aggregations, and threshold monitoring across building sensors.  
+  - Interactive Streamlit interface with visualizations, execution trace transparency, and exportable analytics reports.  
+- **Technologies Used**:  
+  - Python  
+  - LangGraph  
+  - Streamlit  
+  - pandas  
+
+<img width="400" height="188" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/cf905573-c36b-4d56-a674-e4bf9aae5b3c" />
+
+[View the Repository](https://github.com/Extended-reality-Lab/agentic-sensor-analytics)  
+
+---
+
 ### 🐺 FracFeedExtractor
 - **Description**: A pipeline written in Python that leverages XGBoost and LLMs to extract predator-prey interaction data from a global database of diet surveys, enabling the validation of the fraction of feeding predators.
 - **Key Features**:  
@@ -45,23 +64,6 @@ Welcome to my GitHub!
 <img width="450" alt="VLMResponse" src="https://github.com/user-attachments/assets/25f70174-686b-40b9-8d63-af2406079ca7" />
 
 [View the Repository](https://github.com/SeanClay10/local-vlm-plays-pokemon)
-
----
-
-### 🕸️ DocNexus
-- **Description**: A local, privacy focused RAG system that enables deep analysis of PDF documents using knowledge graphs and local LLMs.
-- **Key Features**:  
-  - PDF upload and interactive query interface via Streamlit.   
-  - Knowledge graph construction from document concepts and relationships. 
-  - LLM-powered reasoning with Ollama for context-aware answers, fully local ensuring privacy.  
-- **Technologies Used**:  
-  - Streamlit  
-  - LangChain
-  - Docker
-
-<img width="500" height="1092" alt="Knowledge Graph" src="https://github.com/user-attachments/assets/3fe5354b-5ba9-43b9-b60b-9d671273a8d9" />
-
-[View the Repository](https://github.com/SeanClay10/doc-nexus)  
 
 ---
 
