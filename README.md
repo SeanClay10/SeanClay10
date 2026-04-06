@@ -26,7 +26,7 @@ Welcome to my GitHub!
   - Streamlit  
   - pandas  
 
-<img width="400" height="188" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/cf905573-c36b-4d56-a674-e4bf9aae5b3c" />
+<img width="600" alt="FracFeedExtractor" src="https://github.com/user-attachments/assets/cf905573-c36b-4d56-a674-e4bf9aae5b3c" />
 
 [View the Repository](https://github.com/Extended-reality-Lab/agentic-sensor-analytics)  
 
